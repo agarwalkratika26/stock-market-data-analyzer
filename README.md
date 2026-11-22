@@ -337,6 +337,30 @@ ALL AUTOMATED VERIFICATION CHECKS PASSED SUCCESSFULLY!
 
 ---
 
+## Screenshots
+
+### 🌐 Web Interface (Live Dashboard)
+
+| Dashboard Overview | Portfolio & Holdings | Backtest Results |
+|---|---|---|
+| ![Web Interface 1](images/screenshots/web%20interface/Screenshot%202026-11-22%20205742.png) | ![Web Interface 2](images/screenshots/web%20interface/Screenshot%202026-11-22%20205800.png) | ![Web Interface 3](images/screenshots/web%20interface/Screenshot%202026-11-22%20205858.png) |
+
+![Web Interface 4](images/screenshots/web%20interface/Screenshot%202026-11-22%20205941.png)
+
+---
+
+### 🐙 GitHub Repository
+
+| Repo Overview | Code Structure | Commit History |
+|---|---|---|
+| ![GitHub 1](images/screenshots/github/Screenshot%202026-11-22%20205402.png) | ![GitHub 2](images/screenshots/github/Screenshot%202026-11-22%20205415.png) | ![GitHub 3](images/screenshots/github/Screenshot%202026-11-22%20205427.png) |
+
+| README Preview | Actions / CI |
+|---|---|
+| ![GitHub 4](images/screenshots/github/Screenshot%202026-11-22%20205442.png) | ![GitHub 5](images/screenshots/github/Screenshot%202026-11-22%20205642.png) |
+
+---
+
 ## GitHub Upload & Proof-of-Work Guide
 
 Follow the [GitHub and Portfolio Guide](docs/github-and-portfolio.md) and [Six-Day Implementation Plan](docs/six-day-plan.md) to showcase incremental commits, descriptive documentation, and project artifacts on your personal GitHub profile.
