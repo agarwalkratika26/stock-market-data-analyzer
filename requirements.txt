@@ -1,0 +1,27 @@
+# Stock Market Data Analyzer Dependencies
+
+# Core Data Analysis & Financial Math (Option A & B)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization (Option A & B)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Market Data Ingestion
+yfinance>=0.2.20
+
+# API Backend (Option C - FastAPI Service)
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# Optional Interactive Python Dashboard (Option B)
+# Uncomment or install with: pip install streamlit
+streamlit>=1.30.0
+
+# Optional Testing & Code Quality
+pytest>=8.0.0
+httpx>=0.27.0
